@@ -1,4 +1,4 @@
-AI Alpha 1.0
+AI Alpha 1.0.3
 ----------
 Normal commands:
 /help: opens the help prompt
@@ -8,3 +8,6 @@ Normal commands:
 Debug commands:
 /phrases: shows the list of sentences in the bank
 /len: shows the number of values in the bank
+/clear: clears the log and bank, be careful
+/log: shows the AI log
+/len log: shows the number of values in the log
